@@ -1,0 +1,37 @@
+# ─── Environment / secrets ───
+.env
+.env.local
+.env.*.local
+
+# ─── Logs ───
+storage/logs/*
+!storage/logs/.gitkeep
+*.log
+
+# ─── Cache ───
+storage/cache/*
+!storage/cache/.gitkeep
+
+# ─── Uploads ───
+# Keep the structure but not the actual uploaded files
+uploads/crops/*
+uploads/profiles/*
+uploads/receipts/*
+!uploads/*/.gitkeep
+
+# ─── OS / Editor cruft ───
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+*.iml
+
+# ─── PHP runtime ───
+vendor/
+composer.lock
+
+# ─── Build artifacts ───
+*.zip
+AgroFin.zip
