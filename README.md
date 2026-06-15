@@ -10,6 +10,15 @@ Built by **Team FirstFail** as a final-year project (2026).
 
 ## ✨ Features
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Marketplace
+![Dashboard](screenshots/market_place.png)
+
+---
 ### For Farmers
 - 🌾 List crops with photos, set prices, manage inventory
 - 💳 Smart wallet with trigger-based double-entry accounting
