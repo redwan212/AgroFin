@@ -4,7 +4,7 @@
 
 A unified agricultural platform built for Bangladeshi farmers — combining a direct marketplace, microloans, real-time market prices, weather intelligence, and an AI assistant — all in Bangla.
 
-Built by **Team FirstFail** as a final-year project (2026).
+Built by **Team FirstFail** 
 
 ---
 
