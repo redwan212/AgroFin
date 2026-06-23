@@ -20,42 +20,41 @@ Built by **Team FirstFail**
 
 ---
 ### For Farmers
-- 🌾 List crops with photos, set prices, manage inventory
-- 💳 Smart wallet with trigger-based double-entry accounting
-- 🏦 Apply for microloans with automatic eligibility scoring
-- 📊 Live market price comparison (your crop vs. external market)
-- 🌦️ District-specific 5-day weather forecasts and severe-weather alerts
-- 📈 Expense tracking with auto-computed profit/loss
-- 💬 Direct messaging with buyers
+- List crops with photos, set prices, manage inventory
+- Smart wallet with trigger-based double-entry accounting
+- Apply for microloans with automatic eligibility scoring
+- Live market price comparison (your crop vs. external market)
+- District-specific 5-day weather forecasts and severe-weather alerts
+- Expense tracking with auto-computed profit/loss
+- Direct messaging with buyers
 
 ### For Buyers
-- 🛒 Browse crops by category, district, or price
-- ❤️ Save favorites and recurring subscriptions
-- 💰 Order with mock or live payment gateway
-- ⭐ Rate farmers after delivery
-- 📦 Track orders in real-time
+- Browse crops by category, district, or price
+- Save favorites and recurring subscriptions
+- Order with mock or live payment gateway
+- Rate farmers after delivery
+- Track orders in real-time
 
 ### For Agents
-- 👥 Register farmers in the field (with OTP verification)
-- 📋 Manage assigned farmers, log activities
-- 💼 Commission tracking on every farmer sale
-- 🎫 File support tickets on behalf of farmers
+- Register farmers in the field (with OTP verification)
+- Manage assigned farmers, log activities
+- Commission tracking on every farmer sale
+- File support tickets on behalf of farmers
 
 ### For Admins
-- 📊 Real-time platform-wide dashboard
-- ✅ Loan application approval workflow
-- 📈 Market price management with full price history
-- ⚠️ Issue manual weather alerts per district
-- 🔍 Full audit log of every admin action
+- Real-time platform-wide dashboard
+- Loan application approval workflow
+- Market price management with full price history
+- Issue manual weather alerts per district
+- Full audit log of every admin action
 
 ### Cross-cutting
-- 🤖 **AI Assistant** — Bangla chatbot for weather, prices, orders, loans
-- 📱 **Bangla-first UI** — Native Bangla throughout, with 64 Bangladesh districts preloaded
-- 🔐 **Security** — CSRF protection, bcrypt password hashing, rate limiting, OTP verification
-
+- **AI Assistant** — Bangla chatbot for weather, prices, orders, loans
+- **Bangla-first UI** — Native Bangla throughout, with 64 Bangladesh districts preloaded
+  
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Backend:** PHP 8 (custom MVC framework, no external dependencies)
 - **Database:** MariaDB / MySQL 8
@@ -65,7 +64,7 @@ Built by **Team FirstFail**
 
 ---
 
-## 📊 Database Highlights
+## Database Highlights
 
 | Metric | Count |
 |---|---|
